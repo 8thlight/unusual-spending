@@ -21,5 +21,8 @@
     "teenytest": "^1.0.0",
     "testdouble": "^0.8.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "payment-api": "file:local_modules/payment-api",
+    "email": "file:local_modules/email"
+  }
 }
